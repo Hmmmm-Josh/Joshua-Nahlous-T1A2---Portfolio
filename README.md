@@ -14,6 +14,7 @@ Description of your portfolio website, including:
 
 
 -Purpose:
+
   The Purpose my Website Portfolio is to Give some more information about myself towards the reader and to provide a more indepth contact details about myself too.
 
 
@@ -23,6 +24,7 @@ Description of your portfolio website, including:
 
 
 -Sitemap
+<img width="971" alt="Screenshot 2022-11-13 at 11 12 14 pm" src="https://user-images.githubusercontent.com/114711696/201522021-d00379b6-9296-45c3-ba9e-568d4d314e37.png">
 
 -Screenshots
 
